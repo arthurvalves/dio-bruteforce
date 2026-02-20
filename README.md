@@ -1,7 +1,7 @@
-### Desafio: Simulação de Ataque de Força Bruta 🛡️
+### Desafio: Simulação de Ataque de Brute Force 🛡️
 ## Bootcamp Riachuelo Cibersegurança
 
-Este documento detalha a minha experiência e os aprendizados adquiridos durante a resolução do desafio de simulação de ataques de brute force (força bruta).
+Este documento detalha a minha experiência e os aprendizados adquiridos durante a resolução do desafio de simulação de ataques de brute force.
 
 🚀 Pontos de Destaque e Aprendizados
 Dinâmica Hands-on: Gostei muito do modelo didático adotado neste desafio. A metodologia de acompanhar o conteúdo em vídeo e replicar as ações segundo a segundo diretamente na minha VM foi excelente para a fixação prática do conhecimento.
